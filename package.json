@@ -9,7 +9,7 @@ me": "restrict-keyboard",
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/kurtisf/cordova-plugin-restrict-keyboard"
   },
   "keywords": [
     "cordova",
