@@ -1,4 +1,5 @@
-me": "restrict-keyboard",
+{
+  "namme": "cordova-plugin-restrict-keyboard",
   "version": "1.0.0",
   "description": "Cordova plugin for stopping custom keyboards from being used.",
   "cordova": {
